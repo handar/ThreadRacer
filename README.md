@@ -1,8 +1,4 @@
-# CSC 415 - Project 4 - Thread Racing
-
-## Student Name: Hadia Andar    
-
-## Student ID :  915397384
+# Thread Racing
 
 ## Build Instructions
 make
